@@ -24,7 +24,7 @@
 ## 4- BalancedBaggingClassifier :
 ### A BalancedBaggingClassifier is the same as a sklearn classifier but with additional balancing. It includes an additional step to balance the training set at the time of fit for a given sampler
 
-## All this approachs on Churn dataset to make better classification , after doing all of them i get the best approach results and make a doployment using fastapi 
+## i applied all this techniques  on Churn dataset to make better classification , after doing all of them i get the best approach results and make a doployment using fastapi 
 
 ## Resources 
 - https://machinelearningmastery.com/what-is-imbalanced-classification/
